@@ -15,7 +15,7 @@
   <h3>Primary Tools</h3>
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" width="700" height="100" alt="Primary Tools"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" width="500" height="100" alt="Primary Tools"/>
 </p>
 
 
@@ -24,7 +24,7 @@
   <h3>Secondary Tools</h3>
 </div>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,kotlin,swift,fastapi" width="750" height="60" alt="Secondary Tools"/>
+        <img src="https://skillicons.dev/icons?i=cpp,kotlin,swift,fastapi" width="550" height="60" alt="Secondary Tools"/>
       </p>
     </td>
   </tr>
