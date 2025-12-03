@@ -1,57 +1,35 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/llanimo/llanimo/main/Frame%20Kanye.png" alt="Frame Kanye" width="1200"/>
-</div>
+<h1 align="center">Hi 👋, I'm Slava</h1>
+<h3 align="center">DL / NLP / ML System Design</h3>
 
 <div align="center">
-
-# Hi, I'm Slava 👋
-## NLP & DL Engineer
-
+  <img src="https://raw.githubusercontent.com/llanimo/llanimo/main/Frame%20Kanye.png" alt="Frame Kanye" width="900"/>
 </div>
 
-### DL Engineer with expertise in **NLP**, **ML System Design**, and **Deep Learning**. Building production systems with LLMs, scalable backends, and high-performance infrastructure.
-
----
-
-### 💡 Expertise
-
-- #### NLP — Transformers, LLMs, Fine-tuning, Prompt Engineering
-- #### ML System Design — Architecture, Scalability, Production Pipelines
-- #### Classic ML — GBM, Classification, Feature Engineering
-- #### Reinforcement Learning — Policy Optimization, Q-Learning
-- #### Backend — High-performance systems, API design, Infrastructure
-
----
-
-### 🛠️ Tech Stack
-
-#### **DL & AI**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,go" alt="ML Tools" width="300"/>
-
-#### **Backend & Web**
-
-<img src="https://skillicons.dev/icons?i=ts,fastapi,next" alt="Backend Tools" width="300"/>
-
----
-
-### 🌐 Connect
-
-<p align="left">
-  <a href="https://github.com/LeventySeven">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="46"/>
-  </a>
-  <a href="mailto:olor.guard@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="46"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vyacheslav-lyan/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="46"/>
-  </a>
-  <a href="https://t.me/SeventyLeven">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="46"/>
-  </a>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=LeventySeven&label=Profile%20views&color=0e75b6&style=flat" alt="LeventySeven" />
 </p>
 
----
+- 🧠 Working on **NLP, Deep Learning & ML system design**
+- 💻 Backend work with **TypeScript, FastAPI, Go**
+- 🎯 Interested in startups, product thinking and ML infra
+- 🧩 **Product design & thinking**
+- 🎵 Big **Kanye West fan**
 
-![Visitors](https://komarev.com/ghpvc/?username=LeventySeven&color=blue&style=flat-square)
+<h3>Tools</h3>
+<img src="https://skillicons.dev/icons?i=python,pytorch,go,ts,next,fastapi,postgres,docker,git,figma" />
+
+<h3 style="font-size: 16px; font-weight: 500; margin: 0; padding-top: 10px;">🌐 Socials</h3>
+<p align="left">
+  <a href="https://x.com/Seventydotleven" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X / Twitter" height="30" width="40" />
+  </a>
+  <a href="https://github.com/LeventySeven" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="32" width="32" />
+  </a>
+  <a href="https://t.me/SeventyLeven" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" height="30" width="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vyacheslav-lyan/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
