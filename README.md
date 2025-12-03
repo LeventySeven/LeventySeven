@@ -11,7 +11,6 @@
 
 - 🧠 Working on **NLP, Deep Learning & ML system design**
 - 💻 Backend work with **TypeScript, FastAPI, Go**
-- 🎯 Interested in startups, product thinking and ML infra
 - 🧩 **Product design & thinking**
 - 🎵 Big **Kanye West fan**
 
