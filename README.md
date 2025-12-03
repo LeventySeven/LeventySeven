@@ -17,7 +17,7 @@
 
 - #### NLP — Transformers, LLMs, Fine-tuning, Prompt Engineering
 - #### ML System Design — Architecture, Scalability, Production Pipelines
-- #### Classic ML — Regression, Classification, Feature Engineering
+- #### Classic ML — GBM, Classification, Feature Engineering
 - #### Reinforcement Learning — Policy Optimization, Q-Learning
 - #### Backend — High-performance systems, API design, Infrastructure
 
