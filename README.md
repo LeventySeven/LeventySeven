@@ -1,39 +1,43 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/llanimo/llanimo/main/Frame%20Kanye.png" alt="Frame Kanye" width="1000"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/llanimo/llanimo/main/Frame%20Kanye.png" alt="Frame Kanye" width="1200"/>
+</div>
 
 <div align="center">
 
-## Hi, I'm Slava 👋
-# Currently Studying **NLP** 🧠
+# Hi, I'm Slava 👋
+## NLP & DL Engineer
 
 </div>
+
+### DL Engineer with expertise in **NLP**, **ML System Design**, and **Deep Learning**. Building production systems with LLMs, scalable backends, and high-performance infrastructure.
 
 ---
 
-<div align="center">
-  <h3>Primary Tools</h3>
-</div>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,go" width="500" height="100" alt="Primary Tools"/>
-</p>
+### 💡 Expertise
 
+- #### NLP — Transformers, LLMs, Fine-tuning, Prompt Engineering
+- #### ML System Design — Architecture, Scalability, Production Pipelines
+- #### Classic ML — Regression, Classification, Feature Engineering
+- #### Reinforcement Learning — Policy Optimization, Q-Learning
+- #### Backend — High-performance systems, API design, Infrastructure
 
+---
 
-<div align="center">
-  <h3>Secondary Tools</h3>
-</div>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=next,ts,kotlin,swift,fastapi" width="550" height="60" alt="Secondary Tools"/>
-      </p>
-    </td>
-  </tr>
+### 🛠️ Tech Stack
 
+#### **DL & AI**
 
-<div align="center">
-  <h3>Contact</h3>
-</div>
-<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,go" alt="ML Tools" width="300"/>
+
+#### **Backend & Web**
+
+<img src="https://skillicons.dev/icons?i=ts,fastapi,next" alt="Backend Tools" width="300"/>
+
+---
+
+### 🌐 Connect
+
+<p align="left">
   <a href="https://github.com/LeventySeven">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="46"/>
   </a>
@@ -47,3 +51,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="46"/>
   </a>
 </p>
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=LeventySeven&color=blue&style=flat-square)
